@@ -1,0 +1,28 @@
+/* styles.css */
+
+#banner {
+    background-image: url("./assets/thisisengineering-raeng-0l2PPgrHXX4-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    height: 25em;
+    }
+
+#achievements {
+    color: #ffffff;
+    background-color: #18596b;
+} 
+
+#contact {
+    background-color: #18596b;
+    color: #ffffff;
+}
+
+#team {
+    background-color: #18596b;
+    color: #ffffff;
+}
+
+#contact .a {
+    color: #ffffff!important;
+}
