@@ -23,6 +23,28 @@
     color: #ffffff;
 }
 
+#credits {
+    background-color: #18596b;
+}
+
 #contact .a {
     color: #ffffff!important;
+}
+
+.service-card {
+    width: 20rem;
+    border: #ffffff;
+    justify-content: around;
+}
+
+.service-card-img {
+    width: 10rem;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.link-black {
+    color: #000000;
 }
